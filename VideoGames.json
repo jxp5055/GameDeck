@@ -1,15 +1,15 @@
 {
   "VideoGames":
   [
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
-    {"GameName":"","GameDescription":"","GameImage":"","Company":"","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
+    {"GameName":"Life is Strange: True Colors","GameDescription":"","GameImage":"https://raw.githubusercontent.com/jxp5055/GameDeck/main/LifeisStrangeTrueColors.jpeg","Company":"Deck Nine","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
+    {"GameName":"Animal Crossing: New Horizons","GameDescription":"","GameImage":"https://raw.githubusercontent.com/jxp5055/GameDeck/main/acnh.jpg","Company":"Nintendo","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
+    {"GameName":"Final Fantasy VII: Remake","GameDescription":"","GameImage":"https://raw.githubusercontent.com/jxp5055/GameDeck/main/finalFantasySeven.jpeg","Company":"Square Enix","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
+    {"GameName":"Ghost of Tsushima","GameDescription":"","GameImage":"https://raw.githubusercontent.com/jxp5055/GameDeck/main/ghostOfTsushima.jpeg","Company":"Sucker Punch","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
+    {"GameName":"God of War","GameDescription":"","GameImage":"https://raw.githubusercontent.com/jxp5055/GameDeck/main/godofwar.jpeg","Company":"Santa Monica","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
+    {"GameName":"Hades","GameDescription":"","GameImage":"https://raw.githubusercontent.com/jxp5055/GameDeck/main/hades.jpeg","Company":"Supergiant Games","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
+    {"GameName":"Resident Evil 2: Remake","GameDescription":"","GameImage":"https://gameguru.ru/clf/02/85/a0/eb/news.3840.jpg","Company":"Capcom","FirstGameSite":"","FirstPrice":"","SecondGameSite":"","SecondPrice":"","GSCondition":"","BBCondition":"",""}
+    {"GameName":"The Last of Us Part II","GameDescription":"","GameImage":"https://raw.githubusercontent.com/jxp5055/GameDeck/main/thelastofus2.jpg","Company":"Naughty Dog","FirstGameSite":"","FirstPrice":"$37.99","SecondGameSite":"","SecondPrice":"$25.99","GSCondition":"New:","BBCondition":"Pre-Owned:"}
+    {"GameName":"Uncharted 4","GameDescription":"","GameImage":"https://raw.githubusercontent.com/jxp5055/GameDeck/main/uncharted.png","Company":"Naughty Dog","FirstGameSite":"","FirstPrice":"$9.99","SecondGameSite":"","SecondPrice":"$19.99","GSCondition":"Pre-Owned:","BBCondition":"New:"}
 ],
   "Status":"OK"
 }
